@@ -6,7 +6,6 @@ class App extends Component { //different
   render() {
     return (
     <div className="App" id={'root'}>
-      <text>test</text>
         <Board />
     </div>
     );
